@@ -39,7 +39,7 @@ to my kids tablets.
      stop and pause that playlist.  </li>
     <li>Bluetooth Functionality: Account holders will be able to control the streaming of the playlists to other devices.   </li>
 </ul>
-### Technologies
+ <h3><b>Technologies</b>
 <ul>
     <li>Java</li>
     <li>HTML</li>
@@ -59,3 +59,12 @@ have to research more into databases storing video/music files to see if that al
 will be needing to use Spring Mobile or Spring Android for this application, this is another unfinalized area that needs 
 further research. Bluetooth technology is also a new area for me so I will need to study Android Studio and Spring 
 tutorials to finalize proper implementation. I will also have to learn how to connect everything through Android Studio.
+
+
+<h3><b>Project Tracker</b>
+
+Pivitol Tracker will be used to track the project:
+
+https://www.pivotaltracker.com/projects/2313501
+
+
