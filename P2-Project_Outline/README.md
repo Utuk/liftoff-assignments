@@ -65,6 +65,6 @@ tutorials to finalize proper implementation. I will also have to learn how to co
 
 Pivitol Tracker will be used to track the project:
 
-https://www.pivotaltracker.com/projects/2313501
+[Project](https://www.pivotaltracker.com/projects/2313501)
 
 
