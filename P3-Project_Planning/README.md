@@ -8,9 +8,6 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 [Wireframes: Moqups](https://app.moqups.com/bFsbMT15jy/view)
-![Main Page](https://app.moqups.com/bFsbMT15jy/edit/page/aa9df7b72)
-![Create Account](https://app.moqups.com/bFsbMT15jy/edit/page/a597383f2)
-![User Profile](https://app.moqups.com/bFsbMT15jy/edit/page/a7661fe14)
 
 ### Project Tracker
 
